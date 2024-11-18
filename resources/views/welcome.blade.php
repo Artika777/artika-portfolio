@@ -91,7 +91,7 @@ a.mail {
 
 .profile-pic {
     width: 100px;
-    height: 100px;
+    height: 130px;
     border-radius: 50%;
     margin-bottom: 10px;
     border: 5px solid #ffffff; /* Warna bingkai */
@@ -145,7 +145,7 @@ section {
     justify-content: center;
     align-items: center;
     width: 50px; /* Ukuran lingkaran */
-    height: 60px;
+    height: 50px;
     border-radius: 50%; /* Membuat lingkaran */
     background-color: #000; /* Warna hitam */
     color: #fff; /* Warna logo putih */
